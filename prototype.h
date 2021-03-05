@@ -87,5 +87,4 @@ void DeListeAFichierRecrutement(listerecrutement *L);
 
 void DeFichierAListeRecrutement(listerecrutement **L);
 
-
 #endif /* PROTOTYPE_H */

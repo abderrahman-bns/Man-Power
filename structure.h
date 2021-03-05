@@ -95,6 +95,7 @@ typedef struct _SElementLogin
 
 typedef struct SElementLogin* ListeLogin;
 
+
 #endif /* STRUCRURE_h */
 
 

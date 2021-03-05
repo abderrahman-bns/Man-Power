@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include "Structure.h"
-#include "Prototype.h"
+#include "structure.h"
+#include "prototype.h"
 
 //Cette fonction permet de chercher l’existence d’un candidat dans la liste des candidats, en
 //le cherchant par son code. Il retourne 1 s’il existe et 0 sinon.

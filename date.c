@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include "Structure.h"
-#include "Prototype.h"
+#include "structure.h"
+#include "prototype.h"
 
 SDate *CreerDate(int J,int M,int A)
 {
