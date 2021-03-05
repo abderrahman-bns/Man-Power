@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "structure.h"
-#include "prototype.h"
+#include "Structure.h"
+#include "Prototype.h"
 
 
 SLogin *CreerLogin(char *log,char *pass)

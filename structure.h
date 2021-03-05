@@ -54,6 +54,7 @@ typedef struct listeoffre
     elementoffre *last;
 }listeoffre;
 
+
 typedef struct recrutement
 {
     int         id;
@@ -93,7 +94,6 @@ typedef struct _SElementLogin
 
 
 typedef struct SElementLogin* ListeLogin;
-
 
 #endif /* STRUCRURE_h */
 

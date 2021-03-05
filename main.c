@@ -3,11 +3,11 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include "candidat.c"
-#include "offre.c"
-#include "recrutement.c"
-#include "date.c"
-#include "login.c"
+#include "Candidat.c"
+#include "Offre.c"
+#include "Recrutement.c"
+#include "Date.c"
+#include "Login.c"
 
 char *saise(char *ss){
     char tmp[100];

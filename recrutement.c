@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include "structure.h"
-#include "prototype.h"
+#include "Structure.h"
+#include "Prototype.h"
 
 //Cette fonction permet de chercher l’existence d’un recrutement dans la liste des recrutements, en le cherchant par son code. Il retourne 1 s’il existe et 0 sinon.
 int ExisteRecrutement(listerecrutement *L,int code)
