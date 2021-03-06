@@ -1,4 +1,4 @@
-# ManPower_C
+# ManPower
 
 La société ManPower est un des leaders mondiaux du travail temporaire. Il répond à tous les besoins de
 recrutement en CDD (Contrat à Durée Déterminée), CDI (Contrat à Durée Indéterminée), CA (Contrat
